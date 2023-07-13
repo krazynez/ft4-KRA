@@ -1,4 +1,6 @@
-ftpsp
+ft4-KRA
 =====
 
-FTP server for the PSP
+Fork of [ftpsp](https://github.com/xerpi/ftpsp)
+
+(W.I.P) FTP server for the PSP
